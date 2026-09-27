@@ -1,0 +1,14 @@
+interface:
+  display_name: نویسندهٔ فارسی وب
+  short_description: متن مینیمال فارسی، روایت صفحه، سئو و ویرایش انسانی
+  default_prompt: با $persian-web-copy متن این صفحه را بر اساس واقعیت‌های پروژه، روان
+    و مینیمال بنویس؛ روایت، سئو و ویرایش انسانی را هم انجام بده.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
